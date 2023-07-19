@@ -1,0 +1,39 @@
+.nav-container{
+display: flex;
+align-items: center;
+height: 8.125rem;
+justify-content: space-around;
+}
+
+.logo-container{
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.logo-container img{
+width: 5.37756rem;
+height: 2.5rem;
+;
+}
+.logo-container p{
+font-size: 2.8125rem;
+font-weight: 700;
+
+}
+.color-g{
+    color:#FF42A5 ;
+}
+
+.nav-item{
+    display:flex;
+gap: 20px;
+}
+.nav-item li{
+list-style-type: none;
+}
+
+
+   
+
+
+    
