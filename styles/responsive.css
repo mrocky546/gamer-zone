@@ -9,7 +9,9 @@
         flex-direction: column;
         margin-top: 100px;
        }
-       .banner-img{
+       
+       .banner-1{
+        flex-direction: column;
         
        }
 

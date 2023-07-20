@@ -41,25 +41,30 @@ align-items: center;
 }
 .banner-text{
     align-items: center;
+    margin-left: 20px;
 }
 .banner-text h1{
-    color: #FF42A5;
-
-
-}
-.banner-btn{
-    display: inline-flex;
-    padding: 1.3125rem 2.5rem;
-    align-items: flex-start;
-    gap: 0.625rem
-
-}
-.banner-img{
+    color: #FF42A5}
+ .banner-img{
 width: 50px;
 margin-right: 500px;
-
-
 }
+
+.banner-1{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.banner-1-text h1{
+    color: #FF42A5
+}
+
+
+
+
+    
+    
+     
 
     
 
