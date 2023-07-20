@@ -59,9 +59,22 @@ margin-right: 500px;
     color: #FF42A5
 }
 
+.funny-text{
 
+margin-left: 45%;
 
+}
 
+.funny{
+    color: #FF42A5;
+}
+
+.box{
+    display: flex;
+    gap:5px
+    }
+
+    
     
     
      

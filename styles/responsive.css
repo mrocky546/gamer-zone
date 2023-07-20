@@ -14,5 +14,8 @@
         flex-direction: column;
         
        }
+       .box{
+        flex-direction: column;
+       }
 
 }
