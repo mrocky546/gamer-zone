@@ -25,12 +25,43 @@ font-weight: 700;
 }
 
 .nav-item{
-    display:flex;
+display:flex;
 gap: 20px;
+
 }
-.nav-item li{
-list-style-type: none;
+.nav-item a{
+text-decoration: none;
 }
+
+.banner{
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+align-items: center;
+}
+.banner-text{
+    align-items: center;
+}
+.banner-text h1{
+    color: #FF42A5;
+
+
+}
+.banner-btn{
+    display: inline-flex;
+    padding: 1.3125rem 2.5rem;
+    align-items: flex-start;
+    gap: 0.625rem
+
+}
+.banner-img{
+width: 50px;
+margin-right: 500px;
+
+
+}
+
+    
 
 
    

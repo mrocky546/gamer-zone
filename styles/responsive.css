@@ -5,5 +5,12 @@
         flex-direction: column;
         align-items: center;
     }
+    .banner{
+        flex-direction: column;
+        margin-top: 100px;
+       }
+       .banner-img{
+        
+       }
 
 }
