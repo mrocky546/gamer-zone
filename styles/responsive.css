@@ -19,7 +19,12 @@
        }
 
     .cotainer{
-   flex-direction: column;     .
-
-}
+   flex-direction: column; }
+   .cotainer2{
+    flex-direction: column;
+   }
+   .main{
+    flex-direction: column;
+    height: 1200px;
+   }
 }

@@ -78,6 +78,7 @@ margin-left: 45%;
     .cotainer{
         display: flex;
         margin-top: 50px;
+        align-items: center;
         
     }
 
@@ -91,6 +92,7 @@ margin-left: 45%;
         height: 100px;
         background: red;
         color: white;
+        margin-left: 300px;
         }
 
    .box-1{
@@ -100,8 +102,49 @@ margin-left: 45%;
     
   }
         
+.play-2{
+    color: #FF42A5;
+}
 
+.cotainer2{
+    display: flex;
+    margin-top: 500px;
+    align-items: center;
+}
+  .box4{
+    position: relative;
+    top: 200px;
+    right: 150px;
     
+    
+  }
+  .main{
+    background-color: #FF42A5;
+    margin-top: 110px;
+    height: 40rem;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .text-color{
+    color: aliceblue;
+    margin-left: 30px;
+  }
+  .text-box{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 30px;
+  }
+  .main img{
+    margin-left: 120px;
+  }
+  
+    
+    
+  
+
+  
     
     
      
